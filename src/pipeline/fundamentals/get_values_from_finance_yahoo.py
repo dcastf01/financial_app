@@ -5,3 +5,7 @@ from datetime import datetime
 import yfinance as yf
 import plotly.express as px
 import plotly.graph_objects as go
+import mfinancials as mf
+
+aapl = mf.Ticker("aapl")
+aapl.keyRatios
