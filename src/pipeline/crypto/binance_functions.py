@@ -1,9 +1,9 @@
 import os
-from typing import List
+from typing import List,Optional
 from binance.spot import Spot as Client
 from src.pipeline.crypto.utils import (
     from_datetime_to_format_timestamp_to_binance_api,
-    strdate_to_format_timestamp_to_binance_api, timestamp_from_api_to_date)
+    strdate_to_format_timestamp_to_binance_api, from_timestamp_api_binance_to_date)
 
 from datetime import date
 import logging
@@ -11,7 +11,7 @@ import logging
 logging
 
 
-def get_clients(user):
+def get_clients(user:str):
     #maybe with a dicctionary is better
     keys=[key_or_secret for key_or_secret in os.environ if 'API_KEY_BINANCE' in key_or_secret  ]
     secrets=[key_or_secret for key_or_secret in os.environ if 'API_SECRET_BINANCE'in key_or_secret  ]
@@ -26,8 +26,8 @@ def get_clients(user):
 
     return clients
 class ClientBaseClass:
-    def __init__(self,client,) -> None:
-        self.client:List[Client]=client
+    def __init__(self,client:List[Client],) -> None:
+        self.client=client
 
 class Earn(ClientBaseClass):
     NotImplementedError
@@ -67,8 +67,38 @@ class Wallet(Spot,Earn):
 class Market(ClientBaseClass):
     def __init__(self, client) -> None:
         super().__init__(client)
+        self._exchange_info=self._get_exchange_info()
+        self._all_symbols=self._exchange_info["symbols"]
+    def _get_exchange_info(self):
+        #This function need to sabe all the info and a refresh or something
+        return self.client.exchange_info()
 
-    
+    def _check_if_symbols_are_in_local(self):
+        return NotImplemented
+class Transactions(ClientBaseClass):
+
+    def __init__(self, client) -> None:
+        super().__init__(client)
+
+    def _get_trade_history(self,
+        symbol,
+        startTime:Optional[int]=None ,
+        endTime:Optional[int]=None  ,
+        rows=100):
+
+        return self.client.my_trades(
+            symbol=symbol,
+            # startTime =startTime ,
+            # endTime=endTime ,
+            # rows=rows
+        )
+    def get_complete_trade_history(self,symbol)->dict:
+        
+        try:
+            data=self._get_trade_history(symbol)
+        except Exception as e:
+            print(e)
+        return data
 
 class Investment(ClientBaseClass):
     
@@ -98,3 +128,4 @@ class Investment(ClientBaseClass):
 
         fiat=self._get_investment(begin_time,end_time)
         return fiat
+
