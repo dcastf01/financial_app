@@ -4,12 +4,6 @@ from dateutil import relativedelta
 import datetime
 
 
-'''
-df = df1 = pd.DataFrame({'ISIN': [2,2,2,2,2,3,3,3,5,5,6],
-                         'Date': ['2015-11-20', '2015-12-20', '2016-01-20', '2016-04-01', '2016-11-01', '2015-02-01', '2015-05-01',
-                                              '2016-03-01', '2015-11-20', '2016-06-01', '2015-02-01'],
-                         'Quantity': [20, 30, 60, -20, -10, 25, 15, -60, 50, -50, 35]})
-'''
 df = pd.read_csv('../../data/transactions.csv')
 
 
@@ -102,23 +96,24 @@ def net_value(df):
     return df
 
 
-df = df.sort_values(by=['ISIN', 'Date', 'Quantity'], ascending=[True, True, False]).reset_index(drop=True)
-df = autoFx(df)
-df = net_value(df)
+if __name__ == "__main__":
+    df = df.sort_values(by=['ISIN', 'Date', 'Quantity'], ascending=[True, True, False]).reset_index(drop=True)
+    df = autoFx(df)
+    df = net_value(df)
 
-df = df.groupby(['ISIN'], as_index=False) \
-    .apply(regla_dos_meses) \
-    .drop(['CS'], axis=1) \
-    .reset_index(drop=True)
+    df = df.groupby(['ISIN'], as_index=False) \
+        .apply(regla_dos_meses) \
+        .drop(['CS'], axis=1) \
+        .reset_index(drop=True)
 
-dfOut = df.groupby(['ISIN'], as_index=False) \
-    .apply(FiFo) \
-    .reset_index(drop=True)
+    dfOut = df.groupby(['ISIN'], as_index=False) \
+        .apply(FiFo) \
+        .reset_index(drop=True)
 
-snapshot_df = df.groupby(['ISIN'], as_index=False) \
-    .apply(FiFo, trade=False) \
-    .reset_index(drop=True)
+    snapshot_df = df.groupby(['ISIN'], as_index=False) \
+        .apply(FiFo, trade=False) \
+        .reset_index(drop=True)
 
-a = one_line(dfOut)
+    a = one_line(dfOut)
 
-print(snapshot_df[snapshot_df['Quantity'] > 0])
+    print(snapshot_df[snapshot_df['Quantity'] > 0])
