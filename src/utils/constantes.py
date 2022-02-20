@@ -1,1 +1,2 @@
 transaction_header = ['Date', 'Stock', 'ISIN', 'Exchange', 'Borrar', 'Quantity', 'Price', 'Currency', 'Local_Gross_Value', 'Borrar', 'Gross_Value_EUR', 'Borrar', 'Exchange_Rate', 'Fees', 'Borrar', 'Borrar', 'Borrar', 'Borrar']
+account_overview_header = ['Date', 'Borrar', 'Stock', 'ISIN', 'Description', 'Borrar', 'Currency', 'Gross_Income', 'Borrar', 'Borrar', 'Borrar']
