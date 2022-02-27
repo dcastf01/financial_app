@@ -2,8 +2,6 @@ pandas
 yfinance
 forex_python
 currency_converter
-datetime
-dateutil
 git+https://github.com/almarca4/DegiroAPI
 
 
