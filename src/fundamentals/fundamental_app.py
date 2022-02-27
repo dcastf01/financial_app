@@ -80,7 +80,7 @@ if __name__ == "__main__":
             col1, col2, col3 = st.columns([1, 3.5, 1])
             col2.subheader("Bienvenido. Por favor, inicie sesión.")
             user = col2.text_input('User', key='user', value="")
-            password = col2.text_input('Password', type="password", value="")
+            password = col2.text_input('Password', key='password', type="password", value="")
             login_button = col2.button("Login")
             if 'login_button' not in locals():
                 login_button = False
@@ -88,25 +88,29 @@ if __name__ == "__main__":
                 if authentication(degiro, user, password):
                     st.success(f'Logged as {user}')
                     st.session_state.auth = True
+                    st.experimental_rerun()
                 else:
                     st.session_state.totp = True
-            st.experimental_rerun()
+                    st.experimental_rerun()
         else:
             col1, col2, col3 = st.columns([1, 3.5, 1])
             col2.subheader("Por favor, introduzca el código-GA")
-            totp = col2.text_input('Code_verification', value="")
-            login_button = col2.button("Verification code")
-            if 'login_button' not in locals():
-                login_button = False
-            if login_button:
-                if authentication(degiro, st.session_state.user, st.session_state.password, totp):
-                    st.session_state.auth = True
-                    st.experimental_rerun()
-                else:
-                    st.error('Incorrect user/password')
-                    st.session_state.totp = False
-                    st.experimental_memo.clear()
-                    st.experimental_rerun()
+            totp = col2.text_input('Code_verification', value="", max_chars=6)
+            auth_button = col2.button("Verification code")
+            if 'auth_button' not in locals():
+                auth_button = False
+            if auth_button:
+                if len(totp) == 6:
+                    if authentication(degiro, st.session_state.user, st.session_state.password, totp):
+                        st.session_state.auth = True
+                        st.experimental_rerun()
+                    else:
+                        st.error('Incorrect user/password')
+                        st.session_state.totp = False
+                        st.experimental_memo.clear()
+                        st.experimental_rerun()
+                elif len(totp) < 6:
+                    st.warning('Please, complete the auth code')
 
     else:
         main()
