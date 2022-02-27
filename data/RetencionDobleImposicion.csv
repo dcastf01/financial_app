@@ -1,93 +1,93 @@
-﻿Country;Retention(%)
-albania;10
-germany;15
-andorra;15
-saudi arabia;5
-algeria;15
-argentina;15
-armenia;10
-australia;15
-austria;15
-barbados;5
-belgium;15
-belarus;18
-bolivia;15
-bosnia and herzegovina;10
-brazil;15
-bulgaria;15
-canada;15
-chile;10
-china;10
-cyprus;5
-colombia;5
-korea;15
-costa rica;12
-croatia;15
-cuba;15
-ecuador;15
-egypt;12
-united arab emirates;15
-slovakia;15
-slovenia;15
-united states;15
-estonia;15
-philippines;15
-finland;15
-france;15
-georgia;10
-greece;10
-hong kong;10
-hungary;15
-india;15
-indonesia;15
-iran;10
-ireland;15
-iceland;15
-israel;10
-italy;15
-jamaica;10
-japan;15
-kazakhstan;15
-kyrgyzstan;18
-kuwait;5
-latvia;10
-lithuania;15
-luxembourg;15
-macedonia;15
-malaysia;5
-malta;5
-morocco;15
-mexico;10
-moldova;10
-nigeria;10
-norway;15
-new zealand;15
-oman;10
-netherlands;15
-pakistan;10
-panama;10
-poland;15
-portugal;15
-united kingdom;10
-czech republic;15
-dominican republic;10
-romania;15
-russia;15
-el salvador;12
-senegal;10
-serbia;10
-singapore;5
-south africa;15
-sweden;15
-swiss;15
-thailand;10
-tayikistan;18
-trinidad and tobago;10
-tunisia;15
-turkmenistan;18
-turkey;15
-ukraine;18
-uruguay;5
-uzbekistan;10
-venezuela;10
-vietnam;15
+﻿Country;Taxes_percent
+Albania;10
+Germany;15
+Andorra;15
+Saudi Arabia;5
+Algeria;15
+Argentina;15
+Armenia;10
+Australia;15
+Austria;15
+Barbados;5
+Belgium;15
+Belarus;18
+Bolivia;15
+Bosnia And Herzegovina;10
+Brazil;15
+Bulgaria;15
+Canada;15
+Chile;10
+China;10
+Cyprus;5
+Colombia;5
+Korea;15
+Costa Rica;12
+Croatia;15
+Cuba;15
+Ecuador;15
+Egypt;12
+United Arab Emirates;15
+Slovakia;15
+Slovenia;15
+United States;15
+Estonia;15
+Philippines;15
+Finland;15
+France;15
+Georgia;10
+Greece;10
+Hong Kong;10
+Hungary;15
+India;15
+Indonesia;15
+Iran;10
+Ireland;15
+Iceland;15
+Israel;10
+Italy;15
+Jamaica;10
+Japan;15
+Kazakhstan;15
+Kyrgyzstan;18
+Kuwait;5
+Latvia;10
+Lithuania;15
+Luxembourg;15
+Macedonia;15
+Malaysia;5
+Malta;5
+Morocco;15
+Mexico;10
+Moldova;10
+Nigeria;10
+Norway;15
+New Zealand;15
+Oman;10
+Netherlands;15
+Pakistan;10
+Panama;10
+Poland;15
+Portugal;15
+United Kingdom;10
+Czech Republic;15
+Dominican Republic;10
+Romania;15
+Russia;15
+El Salvador;12
+Senegal;10
+Serbia;10
+Singapore;5
+South Africa;15
+Sweden;15
+Swiss;15
+Thailand;10
+Tayikistan;18
+Trinidad And Tobago;10
+Tunisia;15
+Turkmenistan;18
+Turkey;15
+Ukraine;18
+Uruguay;5
+Uzbekistan;10
+Venezuela;10
+Vietnam;15

@@ -4,11 +4,9 @@ from dateutil import relativedelta
 import datetime
 from forex_python.converter import CurrencyRates
 from currency_converter import ECB_URL, CurrencyConverter
-from pathlib import Path
 import os
 import shutil
 import urllib.request
-import sys
 
 
 class Declaracion:
@@ -139,7 +137,7 @@ class Declaracion:
                         shutil.rmtree(file_path)
                 except Exception as e:
                     print('Failed to delete %s. Reason: %s' % (file_path, e))
-            shutil.move(os.path.join(os.getcwd(),filename), ruta + filename)
+            shutil.move(os.path.join(os.getcwd(), filename), ruta + filename)
         c = CurrencyConverter(ruta + filename)
         c_forex = CurrencyRates()
         if isinstance(amount, str):
@@ -152,15 +150,40 @@ class Declaracion:
         return currency
 
     def dividend_statement(self, df):
-        df = df[df['Description'] == 'Dividendo']
-        df['Local_Currency'] = 'EUR'
-        df['Local_Gross_Income'] = df.apply(lambda row: self.currency_converter(row['Gross_Income'], row['Currency'], 'EUR',  date=self.strtodate(row['Date'])), axis=1)
-        return df
+        df_div = df[df['Description'] == 'Dividendo']
+        df_div['Local_Currency'] = 'EUR'
+        df_div['Local_Gross_Income'] = df_div.apply(lambda row: self.currency_converter(row['Gross_Income'], row['Currency'], 'EUR', date=self.strtodate(row['Date'])), axis=1)
+        df_div = self.spain_double_imposition(df_div)
+        df_div['Taxes_percent'] = np.select([((df_div['Taxes_percent'] > 15) | (df_div['Taxes_percent'].isna())), df_div['Country'] == 'Spain'], [15, 19], default=df_div['Taxes_percent'])
+        df_div['Taxes'] = round((df_div['Local_Gross_Income'].astype(float) * df_div['Taxes_percent'])/100, 2)
+        df_div['Taxes'] = np.select([df_div['Stock'] == 'COCA COLA FEMSA S.A.B.'], [0], default=df_div['Taxes'])
+        df_div = df_div.sort_values(by=['Stock'], ascending=True)
+
+        df_stat = pd.DataFrame()
+        data = {'Total_income': df_div['Local_Gross_Income'].str.replace(',', '.').astype(float).sum(),
+                'GAD': self.conexion_fees(df),
+                'Tax_destination': df_div[df_div['Country'] == 'Spain']['Taxes'].sum(),
+                'Tax_origen': df_div[df_div['Country'] != 'Spain']['Taxes'].sum()}
+        df_stat = df_stat.append(data, ignore_index=True)
+
+        return df_stat
 
     @staticmethod
     def strtodate(date):
         strordate = datetime.datetime.strptime(date, '%Y-%m-%d %H:%M:%S')
         return strordate
+
+    @staticmethod
+    def spain_double_imposition(df):
+        df_taxes = pd.read_csv('../../data/RetencionDobleImposicion.csv', sep=';')
+        df_taxes['Country'] = df_taxes['Country'].str.title()
+        df['Country'] = df['Country'].str.split(' \(').str[0].str.title()
+        df = df.merge(df_taxes, how='left', on='Country')
+        return df
+
+    def conexion_fees(self, df):
+        df = df[df['Description'].str.contains(" de conectividad", na=False)]
+        return df['Gross_Income'].str.replace(',', '.').astype(float).sum()
 
 
 if __name__ == "__main__":
