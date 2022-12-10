@@ -1,0 +1,9 @@
+pandas
+yfinance
+forex_python
+currency_converter
+git+https://github.com/almarca4/DegiroAPI
+
+
+
+

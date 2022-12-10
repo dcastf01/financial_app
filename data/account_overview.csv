@@ -1,0 +1,446 @@
+Date,Stock,Country,ISIN,Description,Currency,Gross_Income
+2021-12-31 10:30:00,,,,Flatex Interest,EUR,"-0,02"
+2021-12-29 16:32:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,56 EUR",,
+2021-12-29 16:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,56"
+2021-12-29 11:02:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 15,82 EUR",,
+2021-12-29 11:02:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-15,82"
+2021-12-29 07:37:00,,,,Ingreso Cambio de Divisa,EUR,"0,56"
+2021-12-29 07:37:00,,,,Retirada Cambio de Divisa,USD,"-0,64"
+2021-12-28 16:31:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 842,85 EUR",,
+2021-12-28 16:31:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"842,85"
+2021-12-28 15:30:00,KYNDRYL HOLDINGS INC,United States (USA),US50155Q1004,Retirada Cambio de Divisa,USD,"-18,50"
+2021-12-28 15:30:00,KYNDRYL HOLDINGS INC,United States (USA),US50155Q1004,Ingreso Cambio de Divisa,EUR,"16,32"
+2021-12-28 15:30:00,KYNDRYL HOLDINGS INC,United States (USA),US50155Q1004,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-12-28 15:30:00,KYNDRYL HOLDINGS INC,United States (USA),US50155Q1004,"Venta 1 KYNDRYL HOLDINGS INC@18,5 USD (US50155Q1004)",USD,"18,50"
+2021-12-28 13:53:00,UMANIS,France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-4,40"
+2021-12-28 13:53:00,UMANIS,France (FRA),FR0013263878,Compra 60 UMANIS@15 EUR (FR0013263878),EUR,"-900,00"
+2021-12-28 13:52:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-4,40"
+2021-12-28 13:52:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,"Venta 1 UMANIS INH. EO -,11@14,95 EUR (FR0013263878)",EUR,"14,95"
+2021-12-28 13:52:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-4,40"
+2021-12-28 13:52:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,"Venta 2 UMANIS INH. EO -,11@14,95 EUR (FR0013263878)",EUR,"29,90"
+2021-12-28 13:52:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-4,40"
+2021-12-28 13:52:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,"Venta 2 UMANIS INH. EO -,11@14,95 EUR (FR0013263878)",EUR,"29,90"
+2021-12-28 08:50:00,,,,flatex Deposit,EUR,"800,00"
+2021-12-28 08:07:00,FEDEX CORPORATION COMM,United States (USA),US31428X1063,Dividendo,USD,"0,75"
+2021-12-28 08:07:00,FEDEX CORPORATION COMM,United States (USA),US31428X1063,RetenciÃ³n del dividendo,USD,"-0,11"
+2021-12-24 09:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 208,88 EUR",,
+2021-12-24 09:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"208,88"
+2021-12-23 16:31:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 214,5 EUR",,
+2021-12-23 16:31:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"214,50"
+2021-12-23 15:54:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Ingreso Cambio de Divisa,USD,"234,90"
+2021-12-23 15:54:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Retirada Cambio de Divisa,EUR,"-208,38"
+2021-12-23 15:54:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-12-23 15:54:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,"Compra 18 DOLE PLC@13,05 USD (IE0003LFZ4U7)",USD,"-234,90"
+2021-12-23 12:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 292,46 EUR",,
+2021-12-23 12:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"292,46"
+2021-12-23 09:40:00,ENCE,Spain (ESP),ES0130625512,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-12-23 09:40:00,ENCE,Spain (ESP),ES0130625512,"Compra 50 ENCE@2,19 EUR (ES0130625512)",EUR,"-109,50"
+2021-12-23 09:33:00,HOLALUZ-CLIDOM SA,Spain (ESP),ES0105456026,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-12-23 09:33:00,HOLALUZ-CLIDOM SA,Spain (ESP),ES0105456026,Compra 8 HOLALUZ-CLIDOM SA@13 EUR (ES0105456026),EUR,"-104,00"
+2021-12-22 19:18:00,META PLATFORMS INC,United States (USA),US30303M1027,Ingreso Cambio de Divisa,USD,"329,91"
+2021-12-22 19:18:00,META PLATFORMS INC,United States (USA),US30303M1027,Retirada Cambio de Divisa,EUR,"-291,96"
+2021-12-22 19:18:00,META PLATFORMS INC,United States (USA),US30303M1027,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-12-22 19:18:00,META PLATFORMS INC,United States (USA),US30303M1027,"Compra 1 Meta Platforms Inc@329,909 USD (US30303M1027)",USD,"-329,91"
+2021-12-22 11:40:00,,,,flatex Deposit,EUR,"800,00"
+2021-12-20 16:47:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,51 EUR",,
+2021-12-20 16:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,51"
+2021-12-18 08:36:00,,,,Ingreso Cambio de Divisa,EUR,"0,51"
+2021-12-18 08:36:00,,,,Retirada Cambio de Divisa,USD,"-0,58"
+2021-12-17 17:47:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,31 EUR",,
+2021-12-17 17:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,31"
+2021-12-17 07:47:00,,,,Ingreso Cambio de Divisa,EUR,"0,31"
+2021-12-17 07:47:00,,,,Retirada Cambio de Divisa,USD,"-0,36"
+2021-12-17 07:43:00,QUALCOMM INCORPORATED,United States (USA),US7475251036,Dividendo,USD,"0,68"
+2021-12-17 07:43:00,QUALCOMM INCORPORATED,United States (USA),US7475251036,RetenciÃ³n del dividendo,USD,"-0,10"
+2021-12-16 09:20:00,COCA-COLA COMPANY (THE,United States (USA),US1912161007,Dividendo,USD,"0,42"
+2021-12-16 09:20:00,COCA-COLA COMPANY (THE,United States (USA),US1912161007,RetenciÃ³n del dividendo,USD,"-0,06"
+2021-12-15 16:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 17,76 EUR",,
+2021-12-15 16:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"17,76"
+2021-12-15 09:29:00,RED ELECTRICA CORPORACION SA,Spain (ESP),ES0173093024,Spanish Transaction Tax,EUR,"-0,08"
+2021-12-15 09:29:00,RED ELECTRICA CORPORACION SA,Spain (ESP),ES0173093024,"Compra 2 RED ELECTRICA CORPORACION SA@18,83 EUR (ES0173093024)",EUR,"-37,66"
+2021-12-15 07:35:00,,,,Ingreso Cambio de Divisa,EUR,"19,98"
+2021-12-15 07:35:00,,,,Retirada Cambio de Divisa,USD,"-22,52"
+2021-12-14 16:32:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 11,1 EUR",,
+2021-12-14 16:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-11,10"
+2021-12-14 09:54:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Coste de la AcciÃ³n,USD,"22,52"
+2021-12-14 07:36:00,,,,Ingreso Cambio de Divisa,EUR,"11,10"
+2021-12-14 07:36:00,,,,Retirada Cambio de Divisa,USD,"-12,55"
+2021-12-13 16:47:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,46 EUR",,
+2021-12-13 16:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,46"
+2021-12-13 07:46:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Dividendo,USD,"14,76"
+2021-12-13 07:46:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,RetenciÃ³n del dividendo,USD,"-2,21"
+2021-12-11 07:39:00,,,,Ingreso Cambio de Divisa,EUR,"0,46"
+2021-12-11 07:39:00,,,,Retirada Cambio de Divisa,USD,"-0,53"
+2021-12-10 08:28:00,MICROSOFT CORPORATION,United States (USA),US5949181045,Dividendo,USD,"0,62"
+2021-12-10 08:28:00,MICROSOFT CORPORATION,United States (USA),US5949181045,RetenciÃ³n del dividendo,USD,"-0,09"
+2021-11-18 10:34:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 2,13 EUR",,
+2021-11-18 10:34:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-2,13"
+2021-11-17 11:04:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 80,97 EUR",,
+2021-11-17 11:04:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"80,97"
+2021-11-17 07:37:00,,,,Ingreso Cambio de Divisa,EUR,"2,13"
+2021-11-17 07:37:00,,,,Retirada Cambio de Divisa,USD,"-2,42"
+2021-11-16 11:38:00,,,,Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 50 EUR,,
+2021-11-16 11:38:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-50,00"
+2021-11-16 09:59:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Dividendo,USD,"2,45"
+2021-11-16 09:59:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,ADR/GDR Pass-Through Fee,USD,"-0,03"
+2021-11-16 09:33:00,ENCE,Spain (ESP),ES0130625512,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,04"
+2021-11-16 09:33:00,ENCE,Spain (ESP),ES0130625512,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-2,00"
+2021-11-16 09:33:00,ENCE,Spain (ESP),ES0130625512,"Compra 31 ENCE@2,546 EUR (ES0130625512)",EUR,"-78,93"
+2021-11-15 13:03:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-11-15 13:03:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-11-15 12:21:00,,,,PromociÃ³n DEGIRO reembolso,EUR,"50,00"
+2021-11-12 11:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-11-12 11:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-11-11 11:33:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-11-11 11:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-11-10 10:47:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-11-10 10:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-11-09 10:17:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 26,41 EUR",,
+2021-11-09 10:17:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-26,41"
+2021-11-08 18:00:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Ingreso Cambio de Divisa,USD,"149,95"
+2021-11-08 18:00:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Retirada Cambio de Divisa,EUR,"-129,51"
+2021-11-08 18:00:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-11-08 18:00:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,"Compra 1 ADVANCED MICRO DEVICES@149,95 USD (US0079031078)",USD,"-149,95"
+2021-11-08 17:39:00,TAKE-TWO INTERACTIVE S,United States (USA),US8740541094,Retirada Cambio de Divisa,USD,"-182,02"
+2021-11-08 17:39:00,TAKE-TWO INTERACTIVE S,United States (USA),US8740541094,Ingreso Cambio de Divisa,EUR,"156,91"
+2021-11-08 17:39:00,TAKE-TWO INTERACTIVE S,United States (USA),US8740541094,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-11-08 17:39:00,TAKE-TWO INTERACTIVE S,United States (USA),US8740541094,"Venta 1 TAKE-TWO INTERACTIVE S@182,02 USD (US8740541094)",USD,"182,02"
+2021-11-08 11:34:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-11-08 11:34:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-11-05 10:47:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-11-05 10:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-11-04 13:56:00,KYNDRYL HOLDINGS INC,United States (USA),US50155Q1004,ESCISIÃN: Compra 1 KYNDRYL HOLDINGS INC@0 USD (US50155Q1004),USD,"0,00"
+2021-11-04 10:47:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 24,46 EUR",,
+2021-11-04 10:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"24,46"
+2021-11-03 15:44:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Ingreso Cambio de Divisa,USD,"127,47"
+2021-11-03 15:44:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Retirada Cambio de Divisa,EUR,"-110,23"
+2021-11-03 15:44:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-11-03 15:44:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,"Compra 1 ADVANCED MICRO DEVICES@127,47 USD (US0079031078)",USD,"-127,47"
+2021-11-03 15:43:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Retirada Cambio de Divisa,USD,"-100,04"
+2021-11-03 15:43:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Ingreso Cambio de Divisa,EUR,"86,33"
+2021-11-03 15:43:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-11-03 15:43:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-11-03 15:43:00,INTEL CORPORATION - CO,United States (USA),US4581401001,"Venta 2 INTEL CORPORATION - CO@50,02 USD (US4581401001)",USD,"100,04"
+2021-11-03 11:47:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-11-03 11:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-11-03 07:33:00,,,,Ingreso Cambio de Divisa,EUR,"0,46"
+2021-11-03 07:33:00,,,,Retirada Cambio de Divisa,USD,"-0,54"
+2021-11-02 12:33:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 142,37 EUR",,
+2021-11-02 12:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"142,37"
+2021-11-02 07:46:00,VERIZON COMMUNICATIONS,United States (USA),US92343V1044,Dividendo,USD,"0,64"
+2021-11-02 07:46:00,VERIZON COMMUNICATIONS,United States (USA),US92343V1044,RetenciÃ³n del dividendo,USD,"-0,10"
+2021-11-01 14:30:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Ingreso Cambio de Divisa,USD,"107,44"
+2021-11-01 14:30:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Retirada Cambio de Divisa,EUR,"-92,91"
+2021-11-01 14:30:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-11-01 14:30:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Ingreso Cambio de Divisa,USD,"53,72"
+2021-11-01 14:30:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Retirada Cambio de Divisa,EUR,"-46,45"
+2021-11-01 14:30:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-11-01 14:30:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,"Compra 2 COCA COLA FEMSA S.A.B.@53,72 USD (US1912411089)",USD,"-107,44"
+2021-11-01 14:30:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,"Compra 1 COCA COLA FEMSA S.A.B.@53,72 USD (US1912411089)",USD,"-53,72"
+2021-11-01 14:26:00,,,,ComisiÃ³n de conectividad con el mercado 2021 (Xetra - XET),EUR,"-2,50"
+2021-11-01 10:32:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 435,99 EUR",,
+2021-11-01 10:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"435,99"
+2021-10-29 19:46:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Ingreso Cambio de Divisa,USD,"502,64"
+2021-10-29 19:46:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Retirada Cambio de Divisa,EUR,"-435,47"
+2021-10-29 19:46:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-10-29 19:46:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-10-29 19:46:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,"Compra 4 INTERNATIONAL BUSINESS@125,66 USD (US4592001014)",USD,"-502,64"
+2021-10-29 10:16:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-29 10:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-29 08:50:00,,,,flatex Deposit,EUR,"310,00"
+2021-10-28 10:47:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 105,2 EUR",,
+2021-10-28 10:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"105,20"
+2021-10-28 10:11:00,,,,flatex Deposit,EUR,"300,00"
+2021-10-27 15:30:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Ingreso Cambio de Divisa,USD,"121,54"
+2021-10-27 15:30:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Retirada Cambio de Divisa,EUR,"-104,69"
+2021-10-27 15:30:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-10-27 15:30:00,ADVANCED MICRO DEVICES,United States (USA),US0079031078,"Compra 1 ADVANCED MICRO DEVICES@121,54 USD (US0079031078)",USD,"-121,54"
+2021-10-27 11:17:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-27 11:17:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-26 10:17:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-26 10:17:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-10-25 10:17:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-25 10:17:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-22 10:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-22 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-10-21 10:32:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-21 10:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-20 10:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-20 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-10-19 11:16:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,33 EUR",,
+2021-10-19 11:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,33"
+2021-10-18 11:03:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-18 11:03:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-16 08:31:00,,,,Ingreso Cambio de Divisa,EUR,"0,33"
+2021-10-16 08:31:00,,,,Retirada Cambio de Divisa,USD,"-0,39"
+2021-10-15 12:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 493,5 EUR",,
+2021-10-15 12:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"493,50"
+2021-10-15 07:08:00,TAIWAN SEMICONDUCTOR M,Taiwan (TWN),US8740391003,Dividendo,USD,"0,49"
+2021-10-15 07:08:00,TAIWAN SEMICONDUCTOR M,Taiwan (TWN),US8740391003,RetenciÃ³n del dividendo,USD,"-0,10"
+2021-10-14 16:19:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Ingreso Cambio de Divisa,USD,"571,04"
+2021-10-14 16:19:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Retirada Cambio de Divisa,EUR,"-492,98"
+2021-10-14 16:19:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-10-14 16:19:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-10-14 16:19:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,"Compra 4 INTERNATIONAL BUSINESS@142,76 USD (US4592001014)",USD,"-571,04"
+2021-10-14 12:33:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-14 12:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-14 08:50:00,,,,flatex Deposit,EUR,"600,00"
+2021-10-13 11:33:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-13 11:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-10-12 10:32:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-12 10:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-11 10:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 399,46 EUR",,
+2021-10-11 10:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"399,46"
+2021-10-08 17:16:00,SONY CORPORATION COMMO,Japan (JPN),US8356993076,Ingreso Cambio de Divisa,USD,"214,72"
+2021-10-08 17:16:00,SONY CORPORATION COMMO,Japan (JPN),US8356993076,Retirada Cambio de Divisa,EUR,"-185,64"
+2021-10-08 17:16:00,SONY CORPORATION COMMO,Japan (JPN),US8356993076,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-10-08 17:16:00,SONY CORPORATION COMMO,Japan (JPN),US8356993076,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-10-08 17:16:00,SONY CORPORATION COMMO,Japan (JPN),US8356993076,"Compra 2 SONY CORPORATION COMMO@107,36 USD (US8356993076)",USD,"-214,72"
+2021-10-08 16:39:00,NAGARRO SE,Germany (DEU),DE000A3H2200,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,07"
+2021-10-08 16:39:00,NAGARRO SE,Germany (DEU),DE000A3H2200,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-4,00"
+2021-10-08 16:39:00,NAGARRO SE,Germany (DEU),DE000A3H2200,Compra 1 Nagarro SE@142 EUR (DE000A3H2200),EUR,"-142,00"
+2021-10-08 13:28:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-10-08 13:28:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-7,50"
+2021-10-08 13:28:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,"Compra 1 UMANIS INH. EO -,11@14,9 EUR (FR0013263878)",EUR,"-14,90"
+2021-10-08 13:28:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-10-08 13:28:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-7,50"
+2021-10-08 13:28:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,"Compra 1 UMANIS INH. EO -,11@14,9 EUR (FR0013263878)",EUR,"-14,90"
+2021-10-08 13:27:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-10-08 13:27:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-7,50"
+2021-10-08 13:27:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,"Compra 1 UMANIS INH. EO -,11@14,9 EUR (FR0013263878)",EUR,"-14,90"
+2021-10-08 12:33:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-08 12:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-08 08:50:00,,,,flatex Deposit,EUR,"400,00"
+2021-10-07 10:17:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-07 10:17:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-10-06 11:51:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,31 EUR",,
+2021-10-06 11:51:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,31"
+2021-10-05 07:32:00,,,,Retirada Cambio de Divisa,EUR,"0,30"
+2021-10-05 07:32:00,,,,Retirada Cambio de Divisa,USD,"-0,36"
+2021-10-04 12:17:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 64,65 EUR",,
+2021-10-04 12:17:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"64,65"
+2021-10-04 07:53:00,COCA-COLA COMPANY (THE,United States (USA),US1912161007,Dividendo,USD,"0,42"
+2021-10-04 07:53:00,COCA-COLA COMPANY (THE,United States (USA),US1912161007,RetenciÃ³n del dividendo,USD,"-0,06"
+2021-10-02 05:40:00,,,,Flatex Interest,EUR,"-0,03"
+2021-10-01 15:59:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Ingreso Cambio de Divisa,USD,"32,60"
+2021-10-01 15:59:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Retirada Cambio de Divisa,EUR,"-28,13"
+2021-10-01 15:59:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-10-01 15:59:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-10-01 15:59:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,"Compra 2 DOLE PLC@16,3 USD (IE0003LFZ4U7)",USD,"-32,60"
+2021-10-01 14:33:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-10-01 14:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-10-01 09:03:00,FLATEXDEGIRO AG NA O.N.,Germany (DEU),DE000FTG1111,Compra 2 FLATEXDEGIRO AG NA O.N.@18 EUR (DE000FTG1111),EUR,"-36,00"
+2021-09-30 12:02:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 191,39 EUR",,
+2021-09-30 12:02:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"191,39"
+2021-09-29 18:39:00,FEDEX CORPORATION COMM,United States (USA),US31428X1063,Ingreso Cambio de Divisa,USD,"221,26"
+2021-09-29 18:39:00,FEDEX CORPORATION COMM,United States (USA),US31428X1063,Retirada Cambio de Divisa,EUR,"-190,88"
+2021-09-29 18:39:00,FEDEX CORPORATION COMM,United States (USA),US31428X1063,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-09-29 18:39:00,FEDEX CORPORATION COMM,United States (USA),US31428X1063,"Compra 1 FEDEX CORPORATION COMM@221,26 USD (US31428X1063)",USD,"-221,26"
+2021-09-29 10:36:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-29 10:36:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-09-28 12:02:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 251,38 EUR",,
+2021-09-28 12:02:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"251,38"
+2021-09-27 19:48:00,MICROSOFT CORPORATION,United States (USA),US5949181045,Ingreso Cambio de Divisa,USD,"293,81"
+2021-09-27 19:48:00,MICROSOFT CORPORATION,United States (USA),US5949181045,Retirada Cambio de Divisa,EUR,"-251,37"
+2021-09-27 19:48:00,MICROSOFT CORPORATION,United States (USA),US5949181045,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-09-27 19:48:00,MICROSOFT CORPORATION,United States (USA),US5949181045,"Compra 1 MICROSOFT CORPORATION@293,81 USD (US5949181045)",USD,"-293,81"
+2021-09-27 10:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-27 10:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-09-27 08:50:00,,,,flatex Deposit,EUR,"500,00"
+2021-09-25 07:32:00,,,,Retirada Cambio de Divisa,EUR,"0,49"
+2021-09-25 07:32:00,,,,Retirada Cambio de Divisa,USD,"-0,58"
+2021-09-24 10:46:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-24 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-09-24 07:44:00,QUALCOMM INCORPORATED,United States (USA),US7475251036,Dividendo,USD,"0,68"
+2021-09-24 07:44:00,QUALCOMM INCORPORATED,United States (USA),US7475251036,RetenciÃ³n del dividendo,USD,"-0,10"
+2021-09-23 10:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-23 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-09-22 13:46:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-22 13:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-09-21 12:33:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-21 12:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-09-20 10:47:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-20 10:47:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-09-17 11:33:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-17 11:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-09-16 11:02:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-16 11:02:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-09-15 13:02:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 37,86 EUR",,
+2021-09-15 13:02:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"37,86"
+2021-09-14 12:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-14 12:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-09-14 08:01:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,03"
+2021-09-14 08:01:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-7,50"
+2021-09-14 08:01:00,"UMANIS INH. EO -,11",France (FRA),FR0013263878,"Compra 2 UMANIS INH. EO -,11@15,75 EUR (FR0013263878)",EUR,"-31,50"
+2021-09-14 07:33:00,,,,Retirada Cambio de Divisa,EUR,"1,17"
+2021-09-14 07:33:00,,,,Retirada Cambio de Divisa,USD,"-1,39"
+2021-09-13 11:46:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-13 11:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-09-13 08:08:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Dividendo,USD,"1,64"
+2021-09-13 08:08:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,RetenciÃ³n del dividendo,USD,"-0,25"
+2021-09-10 12:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-10 12:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-09-09 11:33:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 20,01 EUR",,
+2021-09-09 11:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-20,01"
+2021-09-07 14:09:00,,,,PromociÃ³n DEGIRO Amigo invita Amigo,EUR,"20,00"
+2021-09-07 11:32:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-07 11:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-09-06 10:46:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,52 EUR",,
+2021-09-06 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,52"
+2021-09-03 12:33:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 2,55 EUR",,
+2021-09-03 12:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"2,55"
+2021-09-03 07:38:00,,,,Retirada Cambio de Divisa,EUR,"0,51"
+2021-09-03 07:38:00,,,,Retirada Cambio de Divisa,USD,"-0,61"
+2021-09-02 21:29:00,,,,ComisiÃ³n de conectividad con el mercado 2021 (New York Stock Exchange - NSY),EUR,"-0,02"
+2021-09-02 21:29:00,,,,ComisiÃ³n de conectividad con el mercado 2021 (NASDAQ - NDQ),EUR,"-0,02"
+2021-09-02 21:29:00,,,,ComisiÃ³n de conectividad con el mercado 2021 (Borse Frankfurt - FRA),EUR,"-2,50"
+2021-09-02 11:46:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-09-02 11:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-09-02 08:00:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Dividendo,USD,"0,70"
+2021-09-02 08:00:00,INTEL CORPORATION - CO,United States (USA),US4581401001,RetenciÃ³n del dividendo,USD,"-0,10"
+2021-09-02 07:23:00,FLATEXDEGIRO AG NA O.N.,Germany (DEU),DE000FTG1111,"STOCK SPLIT: Compra 4 FLATEXDEGIRO AG NA O.N.@22,6 EUR (DE000FTG1111)",EUR,"-90,40"
+2021-09-02 07:23:00,FLATEXDEGIRO AG NA O.N.,Germany (DEU),DE000FTG1111,"STOCK SPLIT: Venta 1 FLATEXDEGIRO AG NA O.N.@90,4 EUR (DE000FTG1111)",EUR,"90,40"
+2021-09-01 10:32:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 3,99 EUR",,
+2021-09-01 10:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"3,99"
+2021-08-31 11:12:00,MAPFRE,Spain (ESP),ES0124244E34,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-2,00"
+2021-08-31 11:12:00,MAPFRE,Spain (ESP),ES0124244E34,"Venta 1 MAPFRE@1,82 EUR (ES0124244E34)",EUR,"1,82"
+2021-08-31 10:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 516,54 EUR",,
+2021-08-31 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"516,54"
+2021-08-31 09:09:00,MAPFRE,Spain (ESP),ES0124244E34,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-2,00"
+2021-08-31 09:09:00,MAPFRE,Spain (ESP),ES0124244E34,"Compra 1 MAPFRE@1,81 EUR (ES0124244E34)",EUR,"-1,81"
+2021-08-30 21:24:00,CORSAIR GAMING INC,United States (USA),US22041X1028,Retirada Cambio de Divisa,USD,"-28,17"
+2021-08-30 21:24:00,CORSAIR GAMING INC,United States (USA),US22041X1028,Ingreso Cambio de Divisa,EUR,"23,85"
+2021-08-30 21:24:00,CORSAIR GAMING INC,United States (USA),US22041X1028,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-08-30 21:24:00,CORSAIR GAMING INC,United States (USA),US22041X1028,"Venta 1 CORSAIR GAMING INC@28,17 USD (US22041X1028)",USD,"28,17"
+2021-08-30 16:09:00,CORSAIR GAMING INC,United States (USA),US22041X1028,Ingreso Cambio de Divisa,USD,"27,04"
+2021-08-30 16:09:00,CORSAIR GAMING INC,United States (USA),US22041X1028,Retirada Cambio de Divisa,EUR,"-22,95"
+2021-08-30 16:09:00,CORSAIR GAMING INC,United States (USA),US22041X1028,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-08-30 16:09:00,CORSAIR GAMING INC,United States (USA),US22041X1028,"Compra 1 CORSAIR GAMING INC@27,04 USD (US22041X1028)",USD,"-27,04"
+2021-08-30 16:01:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Ingreso Cambio de Divisa,USD,"130,08"
+2021-08-30 16:01:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Retirada Cambio de Divisa,EUR,"-110,44"
+2021-08-30 16:01:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,03"
+2021-08-30 16:01:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-08-30 16:01:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,"Compra 8 DOLE PLC@16,26 USD (IE0003LFZ4U7)",USD,"-130,08"
+2021-08-30 15:59:00,META PLATFORMS INC,United States (USA),US30303M1027,Ingreso Cambio de Divisa,USD,"373,95"
+2021-08-30 15:59:00,META PLATFORMS INC,United States (USA),US30303M1027,Retirada Cambio de Divisa,EUR,"-317,52"
+2021-08-30 15:59:00,META PLATFORMS INC,United States (USA),US30303M1027,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-08-30 15:59:00,META PLATFORMS INC,United States (USA),US30303M1027,"Compra 1 Meta Platforms Inc@373,95 USD (US30303M1027)",USD,"-373,95"
+2021-08-30 11:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-30 11:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-30 09:08:00,FLATEXDEGIRO AG NA O.N.,Germany (DEU),DE000FTG1111,"Compra 1 FLATEXDEGIRO AG NA O.N.@87,45 EUR (DE000FTG1111)",EUR,"-87,45"
+2021-08-30 08:50:00,,,,flatex Deposit,EUR,"539,88"
+2021-08-27 10:16:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-27 10:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-08-26 12:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-26 12:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-25 12:03:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-25 12:03:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-08-24 11:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-24 11:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-23 10:46:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-23 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-08-20 10:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 53,07 EUR",,
+2021-08-20 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"53,07"
+2021-08-19 15:30:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Ingreso Cambio de Divisa,USD,"61,40"
+2021-08-19 15:30:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Retirada Cambio de Divisa,EUR,"-52,55"
+2021-08-19 15:30:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-08-19 15:30:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-08-19 15:30:00,DOLE PLC,Ireland (IRL),IE0003LFZ4U7,"Compra 4 DOLE PLC@15,35 USD (IE0003LFZ4U7)",USD,"-61,40"
+2021-08-19 10:32:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-19 10:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-08-18 10:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-18 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-17 11:48:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 61,46 EUR",,
+2021-08-17 11:48:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-61,46"
+2021-08-16 12:11:00,TELEFONICA,Spain (ESP),ES0178430E18,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,03"
+2021-08-16 12:11:00,TELEFONICA,Spain (ESP),ES0178430E18,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-2,00"
+2021-08-16 12:11:00,TELEFONICA,Spain (ESP),ES0178430E18,"Venta 15 TELEFONICA@4,232 EUR (ES0178430E18)",EUR,"63,48"
+2021-08-16 11:46:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-16 11:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-13 10:46:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-13 10:46:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-08-12 10:32:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-12 10:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-11 11:16:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-11 11:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-08-10 10:32:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-10 10:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-09 11:03:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-09 11:03:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-08-06 12:02:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-06 12:02:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-05 12:32:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-05 12:32:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-08-04 11:16:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 4,96 EUR",,
+2021-08-04 11:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"4,96"
+2021-08-03 16:13:00,,,,ComisiÃ³n de conectividad con el mercado 2021 (New York Stock Exchange - NSY),EUR,"-2,48"
+2021-08-03 16:13:00,,,,ComisiÃ³n de conectividad con el mercado 2021 (NASDAQ - NDQ),EUR,"-2,48"
+2021-08-03 11:33:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-03 11:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"0,01"
+2021-08-02 11:16:00,,,,"Transferir a su Cuenta de Efectivo en flatexDEGIRO Bank: 0,01 EUR",,
+2021-08-02 11:16:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"-0,01"
+2021-07-30 13:33:00,,,,"Transferir desde su Cuenta de Efectivo en flatexDEGIRO Bank: 992,02 EUR",,
+2021-07-30 13:33:00,FLATEX EURO BANKACCOUNT,,NLFLATEXACNT,Degiro Cash Sweep Transfer,EUR,"992,02"
+2021-07-29 09:06:00,TELEFONICA,Spain (ESP),ES0178430E18,Spanish Transaction Tax,EUR,"-0,11"
+2021-07-29 09:06:00,TELEFONICA,Spain (ESP),ES0178430E18,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,03"
+2021-07-29 09:06:00,TELEFONICA,Spain (ESP),ES0178430E18,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-2,00"
+2021-07-29 09:06:00,TELEFONICA,Spain (ESP),ES0178430E18,"Compra 15 TELEFONICA@3,76 EUR (ES0178430E18)",EUR,"-56,40"
+2021-07-28 12:25:00,TELEFONICA,Spain (ESP),ES0178430E18,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,02"
+2021-07-28 12:25:00,TELEFONICA,Spain (ESP),ES0178430E18,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-2,00"
+2021-07-28 12:25:00,TELEFONICA,Spain (ESP),ES0178430E18,"Venta 10 TELEFONICA@3,8185 EUR (ES0178430E18)",EUR,"38,18"
+2021-07-28 09:43:00,,,,Flatex Instant Deposit,EUR,"1000,00"
+2021-07-28 09:43:00,,,,Reservation iDEAL / Sofort Deposit,EUR,"-1000,00"
+2021-07-27 16:50:00,COCA-COLA COMPANY (THE,United States (USA),US1912161007,Ingreso Cambio de Divisa,USD,"57,31"
+2021-07-27 16:50:00,COCA-COLA COMPANY (THE,United States (USA),US1912161007,Retirada Cambio de Divisa,EUR,"-48,56"
+2021-07-27 16:50:00,COCA-COLA COMPANY (THE,United States (USA),US1912161007,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-27 16:50:00,COCA-COLA COMPANY (THE,United States (USA),US1912161007,"Compra 1 COCA-COLA COMPANY (THE@57,305 USD (US1912161007)",USD,"-57,30"
+2021-07-27 16:44:00,NETEASE INC. - AMERIC,China (CHN),US64110W1027,Retirada Cambio de Divisa,USD,"-84,44"
+2021-07-27 16:44:00,NETEASE INC. - AMERIC,China (CHN),US64110W1027,Ingreso Cambio de Divisa,EUR,"71,41"
+2021-07-27 16:44:00,NETEASE INC. - AMERIC,China (CHN),US64110W1027,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-27 16:44:00,NETEASE INC. - AMERIC,China (CHN),US64110W1027,"Venta 1 NETEASE INC. - AMERIC@84,4401 USD (US64110W1027)",USD,"84,44"
+2021-07-27 09:00:00,TELEFONICA,Spain (ESP),ES0178430E18,Spanish Transaction Tax,EUR,"-0,08"
+2021-07-27 09:00:00,TELEFONICA,Spain (ESP),ES0178430E18,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,02"
+2021-07-27 09:00:00,TELEFONICA,Spain (ESP),ES0178430E18,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-2,00"
+2021-07-27 09:00:00,TELEFONICA,Spain (ESP),ES0178430E18,"Compra 10 TELEFONICA@3,781 EUR (ES0178430E18)",EUR,"-37,81"
+2021-07-26 17:31:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Ingreso Cambio de Divisa,USD,"108,02"
+2021-07-26 17:31:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Retirada Cambio de Divisa,EUR,"-91,57"
+2021-07-26 17:31:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-07-26 17:31:00,INTEL CORPORATION - CO,United States (USA),US4581401001,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:31:00,INTEL CORPORATION - CO,United States (USA),US4581401001,"Compra 2 INTEL CORPORATION - CO@54,01 USD (US4581401001)",USD,"-108,02"
+2021-07-26 17:25:00,TAKE-TWO INTERACTIVE S,United States (USA),US8740541094,Ingreso Cambio de Divisa,USD,"172,13"
+2021-07-26 17:25:00,TAKE-TWO INTERACTIVE S,United States (USA),US8740541094,Retirada Cambio de Divisa,EUR,"-145,90"
+2021-07-26 17:25:00,TAKE-TWO INTERACTIVE S,United States (USA),US8740541094,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:25:00,TAKE-TWO INTERACTIVE S,United States (USA),US8740541094,"Compra 1 TAKE-TWO INTERACTIVE S@172,13 USD (US8740541094)",USD,"-172,13"
+2021-07-26 17:23:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Ingreso Cambio de Divisa,USD,"106,98"
+2021-07-26 17:23:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Retirada Cambio de Divisa,EUR,"-90,67"
+2021-07-26 17:23:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,01"
+2021-07-26 17:23:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:23:00,COCA COLA FEMSA S.A.B.,Mexico (MEX),US1912411089,"Compra 2 COCA COLA FEMSA S.A.B.@53,49 USD (US1912411089)",USD,"-106,98"
+2021-07-26 17:23:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Ingreso Cambio de Divisa,USD,"142,52"
+2021-07-26 17:23:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Retirada Cambio de Divisa,EUR,"-120,79"
+2021-07-26 17:23:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:23:00,INTERNATIONAL BUSINESS,United States (USA),US4592001014,"Compra 1 INTERNATIONAL BUSINESS@142,52 USD (US4592001014)",USD,"-142,52"
+2021-07-26 17:22:00,VERIZON COMMUNICATIONS,United States (USA),US92343V1044,Ingreso Cambio de Divisa,USD,"55,61"
+,,,,,,
+2021-07-26 17:22:00,VERIZON COMMUNICATIONS,United States (USA),US92343V1044,Retirada Cambio de Divisa,EUR,"-47,13"
+2021-07-26 17:22:00,VERIZON COMMUNICATIONS,United States (USA),US92343V1044,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:22:00,VERIZON COMMUNICATIONS,United States (USA),US92343V1044,"Compra 1 VERIZON COMMUNICATIONS@55,61 USD (US92343V1044)",USD,"-55,61"
+2021-07-26 17:22:00,NETEASE INC. - AMERIC,China (CHN),US64110W1027,Ingreso Cambio de Divisa,USD,"95,37"
+2021-07-26 17:22:00,NETEASE INC. - AMERIC,China (CHN),US64110W1027,Retirada Cambio de Divisa,EUR,"-80,82"
+2021-07-26 17:22:00,NETEASE INC. - AMERIC,China (CHN),US64110W1027,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:22:00,NETEASE INC. - AMERIC,China (CHN),US64110W1027,"Compra 1 NETEASE INC. - AMERIC@95,37 USD (US64110W1027)",USD,"-95,37"
+2021-07-26 17:21:00,WALT DISNEY COMPANY (T,United States (USA),US2546871060,Ingreso Cambio de Divisa,USD,"177,44"
+2021-07-26 17:21:00,WALT DISNEY COMPANY (T,United States (USA),US2546871060,Retirada Cambio de Divisa,EUR,"-150,37"
+2021-07-26 17:21:00,WALT DISNEY COMPANY (T,United States (USA),US2546871060,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:21:00,WALT DISNEY COMPANY (T,United States (USA),US2546871060,"Compra 1 WALT DISNEY COMPANY (T@177,44 USD (US2546871060)",USD,"-177,44"
+2021-07-26 17:21:00,TAIWAN SEMICONDUCTOR M,Taiwan (TWN),US8740391003,Ingreso Cambio de Divisa,USD,"115,33"
+2021-07-26 17:21:00,TAIWAN SEMICONDUCTOR M,Taiwan (TWN),US8740391003,Retirada Cambio de Divisa,EUR,"-97,74"
+2021-07-26 17:21:00,TAIWAN SEMICONDUCTOR M,Taiwan (TWN),US8740391003,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:21:00,TAIWAN SEMICONDUCTOR M,Taiwan (TWN),US8740391003,"Compra 1 TAIWAN SEMICONDUCTOR M@115,33 USD (US8740391003)",USD,"-115,33"
+2021-07-26 17:19:00,QUALCOMM INCORPORATED,United States (USA),US7475251036,Ingreso Cambio de Divisa,USD,"143,00"
+2021-07-26 17:19:00,QUALCOMM INCORPORATED,United States (USA),US7475251036,Retirada Cambio de Divisa,EUR,"-121,17"
+2021-07-26 17:19:00,QUALCOMM INCORPORATED,United States (USA),US7475251036,Costes de transacciÃ³n y/o externos de DEGIRO,EUR,"-0,50"
+2021-07-26 17:19:00,QUALCOMM INCORPORATED,United States (USA),US7475251036,Compra 1 QUALCOMM INCORPORATED@143 USD (US7475251036),USD,"-143,00"
+2021-07-24 13:59:00,,,,ComisiÃ³n por transferencia Trustly/Sofort,EUR,"-1,00"
+2021-07-24 13:59:00,,,,Reservation iDEAL / Sofort Deposit,EUR,"1000,00"
+2021-07-24 13:09:00,,,,Ingreso Sofort/Trustly,EUR,"0,10"
